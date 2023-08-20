@@ -1,4 +1,4 @@
-# AMMVF
+# AMMVF-DTI
 a code for DTI prediction
 
 This code was originally created by Lu Wang, who is currently a master student in Zhejiang University of Science and Technology.
