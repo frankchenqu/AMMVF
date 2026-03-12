@@ -15,7 +15,7 @@ An end-to-end deep learning method (AMMVF) is proposed to predict DTIs based on 
 3. mol_featurizer.py: data processing to get the input of the model
 
 ## Authors
-This code was originally created by Lu Wang, who is currently a master student in Zhejiang University of Science and Technology.
+This code was originally created by Lu Wang, who is currently a master student at Zhejiang University of Science and Technology.
 This code is derived from her website: https://github.com/xiaoluobie/AMMVI.
 
 Lu Wang is under joint supervision of Dr. Qu Chen and Prof. Yifeng Zhou.
